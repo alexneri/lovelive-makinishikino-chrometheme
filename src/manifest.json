@@ -1,8 +1,8 @@
 {
-    "name": "Love Live! - Eli Ayase",
-    "version": "1.0.2.0",
+    "name": "Love Live! - Maki Nishikino",
+    "version": "0.0.5.0",
     "manifest_version": 2,
-    "description": "A theme featuring Love Live!'s Eli Ayase in her outfit from the song Bokura wa Ima no Naka de",
+    "description": "A theme featuring Love Live!'s Maki Nishikino in her outfit from the song Bokura wa Ima no Naka de",
     "icons": {
         "128": "img/icon128.png"
     },
