@@ -9,9 +9,9 @@ Though I've released this under a  The Artistic License 2.0 license, I won't sto
 
 If you think you are okay with all of the above, then, goodluck!
 
-If you got further questions, send it to hello@mediaindex.zendesk.com
+If you got further questions, send it to inquiries@sakuraindex.jp
 
-OR follow me at twitter.com/DotCrosse
+OR follow me at twitter.com/Crosse_
 And better yet, Like us @ facebook! fb.me/sakuraindex
 
 Cheers

@@ -1,6 +1,6 @@
 {
     "name": "Love Live! - Maki Nishikino",
-    "version": "0.1.7.0",
+    "version": "1.0.0.4",
     "manifest_version": 2,
     "description": "A theme featuring Love Live!'s Maki Nishikino in her outfit from the song Bokura wa Ima no Naka de",
     "icons": {
@@ -69,6 +69,11 @@
                 153,
                 51,
                 102
+            ],
+            "omnibox_background": [
+                241,
+                243,
+                244
             ]
         },
         "tints": {
